@@ -103,4 +103,5 @@ getImageModel = (deps, opts) ->
 
 	return exports
 
-module.exports = getImageModel
+module.exports =
+	default: getImageModel
