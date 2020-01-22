@@ -1,4 +1,14 @@
 - commits:
+    - subject: Update dependencies
+      hash: b9c9ce8a22c788838bbfeec9591c1d9f6166c6ff
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+  version: 12.20.5
+  date: 2020-01-22T00:37:53.716Z
+- commits:
     - subject: Unpin Bluebird typings version
       hash: f0c6dac19da795e68cf9f042b46a0b41138e04a0
       body: ''
